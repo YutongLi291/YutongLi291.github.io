@@ -1,10 +1,10 @@
-## Portfolio
+## Projects
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Genki Kanji Quiz]("https://github.com/YutongLi291/GenkiKanji")
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
