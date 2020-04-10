@@ -2,28 +2,27 @@
 
 ---
 
-### Software Projects
+### Individual Projects
 
-[Genki Kanji Quiz]("https://github.com/YutongLi291/GenkiKanji")
+[Genki Kanji Quiz](https://github.com/YutongLi291/GenkiKanji)
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[UBC Z-Score Calculator](https://play.google.com/store/apps/details?id=com.yrlapps.z_scorecalculatorapp)
+
+
+---
+[Fitness Tracker](https://github.com/YutongLi291/FitnessAppProject)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
-### Category Name 2
+### Collaborative Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Helth](https://github.com/plasmalaser/helth)
+- [Tennis Knn Classification Model](https://github.com/YutongLi291/Using-Knn-Classification-to-Predict-the-Winner-in-a-Tennis-Match)
+
 
 ---
 
