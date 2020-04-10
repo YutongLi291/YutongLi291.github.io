@@ -13,7 +13,7 @@
 
 ---
 [Fitness Tracker](https://github.com/YutongLi291/FitnessAppProject)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
