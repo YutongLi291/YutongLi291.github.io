@@ -16,7 +16,7 @@
 
 
 ---
-[Twilo UBC Course Checker](https://github.com/YutongLi291/CourseCheckTwilio)
+[Twilio UBC Course Checker](https://github.com/YutongLi291/CourseCheckTwilio)
 
 ### Collaborative Projects
 
