@@ -18,6 +18,9 @@
 ---
 [Twilio UBC Course Checker](https://github.com/YutongLi291/CourseCheckTwilio)
 
+---
+[Genki One Dictionary](https://github.com/YutongLi291/GenkiOneDictionary)
+
 ### Collaborative Projects
 
 - [Helth](https://github.com/plasmalaser/helth)
