@@ -21,6 +21,9 @@
 ---
 [Genki One Dictionary](https://github.com/YutongLi291/GenkiOneDictionary)
 
+---
+[Japanese Name Generator](https://github.com/YutongLi291/JapaneseNameGenerator)
+
 ### Collaborative Projects
 
 - [Helth](https://github.com/plasmalaser/helth)
