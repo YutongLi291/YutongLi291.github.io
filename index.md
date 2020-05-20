@@ -8,7 +8,7 @@
 
 
 ---
-[UBC Z-Score Calculator](https://play.google.com/store/apps/details?id=com.yrlapps.z_scorecalculatorapp)
+[UBC Z-Score Calculator](https://github.com/YutongLi291/Z-Score_Calculator_App)
 
 
 ---
